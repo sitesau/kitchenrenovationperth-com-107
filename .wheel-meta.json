@@ -1,0 +1,22 @@
+{
+  "wheel_id": 651,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationperth-com-107",
+  "project": "kitchen-renovations-perth-questions-to-ask-b9bfe2bca2d5c9ba3c6a",
+  "parent_t1_ref": "kitchenrenovationperth-com-153",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationperth.com.au",
+  "primary_kw": "kitchen renovations perth questions to ask",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-perth-questions-to-ask-b9bfe2bca2d5c9ba3c6a/",
+  "tier": "T2",
+  "writeback_nonce": "988fcc55d556b639",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-perth-how-to-choose-a90ebd91db2bfa0c48e2ad6/",
+      "anchor": "kitchen renovations perth how to choose",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
